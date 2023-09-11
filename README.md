@@ -1,4 +1,4 @@
-# PM43 Pageid XSS Vulnerability POC
+# Honeywell PM43 Pageid XSS Vulnerability POC
 
 This repository contains a proof-of-concept (POC) code that demonstrates the existence of a Cross-Site Scripting (XSS) vulnerability in PM43 devices through the `pageid` parameter. The vulnerability affects PM43 devices with a version of P10.11.013310 or earlier.
 
